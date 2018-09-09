@@ -27,8 +27,11 @@ section, summary, time, mark, audio, video {
 
 
 .emi{
-    font-size: 100px;
+    font-size: 100spx;
     font-family: cursive;
+    
+    .sarif{font-size: 100spx;
+        font-family: "Helvetica Neue"}
 }
 
 article, aside, details, figcaption, figure,
