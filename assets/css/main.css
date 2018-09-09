@@ -25,6 +25,12 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+
+.emi{
+    font-size: 100px;
+    font-family: cursive;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
